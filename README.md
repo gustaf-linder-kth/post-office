@@ -13,7 +13,7 @@ P-uppgift #115.
 Programmet använder sig av tkinter för den grafiska delen. Koden är skriven arkitekturmönstret
 efter Model-View-Controller, som förkortas MVC. Nedan ser man klass-strukturen i form av ett
 UML-diagram (ses inte om du har på dark mode på github pga .svg-filen är genomskinlig).
-![UML Diagram](https://github.com/gustaf-linder-kth/post-office/blob/main/GUI.png?raw=true)
+![UML Diagram](https://github.com/gustaf-linder-kth/post-office/blob/main/UML.svg?raw=true)
 MVC bygger på att logik och UI separeras och all interaktion mellan dem sker via klassen
 Controller.
 
