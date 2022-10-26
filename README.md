@@ -18,12 +18,12 @@ MVC bygger på att logik och UI separeras och all interaktion mellan dem sker vi
 Controller.
 
 # Användargränsnitt
-![GUI](https://github.com/gustaf-linder-kth/post-office/blob/main/UML.svg?raw=true)
+![GUI](https://github.com/gustaf-linder-kth/post-office/blob/main/gui.PNG?raw=true)
 Programmet består av två stycken "ScrolledText" som utmatar text. Den stora uppe till vänster är 
 för den huvudsakliga utmatningen, medan den undre till höger är för några intressant nyckelvärden.
 Nere till vänster visas en tabell över den nuvarande kön. Widgeten är "Treeview".
 
-![GUI](https://github.com/gustaf-linder-kth/post-office/blob/main/chart.png?raw=true)
+![GUI](https://github.com/gustaf-linder-kth/post-office/blob/main/chart.PNG?raw=true)
 Till höger finns alla parametrar som simulationen beror på. När arbetsdagen är slut och alla
 kunder har lämnat butiken skapas ett nytt fönster med ett matplotlib-linjediagram som visar
 kölängd över tid.
